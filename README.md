@@ -1,6 +1,7 @@
-![WQCLM LOGO](/WQCLM-LOGO.png?raw=true "WQCLM - Wipro Quote & Contract Lifecycle Management")                            WQCLM - Wipro Quote & Contract Lifecycle Management
+![WQCLM LOGO](/WQCLM-LOGO.png?raw=true "WQCLM - Wipro Quote & Contract Lifecycle Management")
+                            WQCLM - Wipro Quote & Contract Lifecycle Management
                                     Application By Nikhil Sharma
-                        =========================================================
+===========================================================================================================
 
 A simple example to brand your Salesforce My Domain
 
