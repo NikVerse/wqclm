@@ -2,8 +2,6 @@
 # WQCLM - Wipro Quote & Contract Lifecycle Management
 > Application By Nikhil Sharma
 
-======================================================
-
 A simple example to brand your Salesforce My Domain by Nikhil Sharma.
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/NikVerse/wqclm)
 
