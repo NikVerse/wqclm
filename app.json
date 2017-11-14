@@ -1,10 +1,10 @@
 {
-  "name": "My Domain Sample",
-  "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://github.com/salesforceidentity/MyDomain-Sample",
+  "name": "WQCLM - Wipro Quote & COntract Liefcycle Management",
+  "description": "Application Designed By Nikhil Sharma to customize Salesforce Right Frame URL",
+  "repository": "https://github.com/NikVerse/wqclm",
   "website": "https://www.salesforce.com/platform/identity",
-  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
-  "keywords": ["salesforce"],
+  "logo": "https://drive.google.com/open?id=1jHi1isOWTMS5faMW-8lD1rynQxpcsfnF",  
+  "keywords": ["NesTiverse"],
   "success_url": "/",
   "env": {
     "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
