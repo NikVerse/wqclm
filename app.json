@@ -3,7 +3,7 @@
   "description": "Application Designed By Nikhil Sharma to customize Salesforce Right Frame URL",
   "repository": "https://github.com/NikVerse/wqclm",
   "website": "https://www.salesforce.com/platform/identity",
-  "logo": "https://drive.google.com/open?id=1jHi1isOWTMS5faMW-8lD1rynQxpcsfnF",  
+  "logo": "https://github.com/NikVerse/wqclm/blob/master/WQCLM-LOGO.png?raw=true",  
   "keywords": ["NesTiverse"],
   "success_url": "/",
   "env": {
